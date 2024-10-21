@@ -1,4 +1,6 @@
-# AI Platform
+# NeuronX
+
+The Infinite Intelligence Grid" Slogan: "Learning, Evolving, and Innovating Beyond Boundaries."
 
 This AI Platform allows users to access datasets, train machine learning models, and manage their subscription plans.
 
